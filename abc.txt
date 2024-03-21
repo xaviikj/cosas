@@ -1,0 +1,14 @@
+Nombre,Apellido 1,Apellido 2,DNI,Email,Departamento
+Jose,Plasencia,Perez,55920816L,joseplasencia@gmail.com,Ventas
+Juan,Perez,Campos,80116527Y,juanperez@gmail.com,Ventas
+Marta,Vila,Cortada,86743645L,martavila@gmail.com,Ventas
+Mireia,Lopez,Juan,49961129T,mireialopez@gmail.com,Ventas
+Jose,Perez,Perez,20682373Z,joseperez@gmail.com,Administracion
+Manuel,Vila,Garcia,71600198W,manuelvila@gmail.com,Administracion
+Pedro,Salvador,Salvado,93072054R,pedrosalvador@gmail.com,Administracion
+Ana,Marti,Martinez,74557104M,anamarti@gmail.com,Administracion
+Marcos,Pual,Pau,69471090G,marcospual@gmail.com,Direccion
+Pol,Pal,Pez,92467749K,polpal@gmail.com,Direccion
+Juan,Malana,Cocido,20453794D,juanmalana@gmail.com,Direccion
+Angel,Pascual,Roca,73151499E,angelpascual@gmail.com,Direccion
+Paulo,Salvador,Salvado,29552602V,paulosalvador@gmail.com,Direccion
